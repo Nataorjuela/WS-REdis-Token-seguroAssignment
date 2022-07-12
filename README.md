@@ -1,0 +1,1 @@
+# WS-REdis-Token-seguroAssignment
